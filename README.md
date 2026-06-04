@@ -56,4 +56,4 @@ Hi! I'm Muhamad Rifqi Kurniawan, a web developer who loves turning lines of code
 [![ReadMe Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Smurfish-py&repo=recycle-market&theme=radial)](https://github.com/Smurfish-py/recycle-market)
 [![ReadMe Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Smurfish-py&repo=study-con&theme=radial)](https://github.com/Smurfish-pystudy-con)
 [![ReadMe Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=siJarchive&repo=jarchive-frontend&theme=radial)](https://github.com/siJarchive/jarchive-frontend)
-[![ReadMe Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Smurfish-py&repo=sgacrypt&theme=radial)](https://github.com/Smurfish-py/sgacrypt)
+[![ReadMe Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Smurfish-py&repo=music-database&theme=radial)](https://github.com/Smurfish-py/music-database)
